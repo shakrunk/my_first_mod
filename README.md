@@ -1,9 +1,9 @@
-# Fabric Example Mod
+# My First FabricMC Mod
 
 ## Setup
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Honelsty at thispoint I'm just step-by-tep following the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) and thus far have not made any unique edits.
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+I have no idea what I want the liscence for this to be yet.  I'll decide this later.
