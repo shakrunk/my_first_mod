@@ -2,7 +2,8 @@
 
 ## Setup
 
-Honelsty at this point I'm just step-by-tep following the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) and thus far have not made any unique edits.
+Honestly at this point I'm just step-by-tep following the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) and thus far have not made any unique edits.
+
 [Setup VSCode](https://fabricmc.net/wiki/tutorial:setup:vscode)
 
 ## License
